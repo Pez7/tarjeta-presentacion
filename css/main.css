@@ -1,3 +1,6 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
 body{
 	margin:0;
 	padding:0;
@@ -37,4 +40,38 @@ body{
     left: 1%;
     top: -16px;
     background-size: cover;
+}
+#contacto {
+	color: whitesmoke;
+    font-size: 14px;
+    width: 247px;
+    height: 127px;
+    top: 236px;
+    position: absolute;
+    left: 59px;
+}
+#ele{
+	bottom: 56px;
+    position: relative;
+    left: 702px;
+}
+#logo{
+	left: 1%;
+    bottom: 61%;
+    width: 55px;
+    height: 55px;
+    position: relative;
+}
+#datos{
+	color: whitesmoke;
+    position: relative;
+    bottom: 90%;
+    width: 20%;
+    left: 8%;
+}
+#nombre{
+	font-size: 20px;
+}
+#amarillo{
+	color:#E9D608;
 }
